@@ -31,6 +31,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<div align="center"> 
 <p align="center">
   <a href="https://github.com/Tonybsilva-dev/SocialHeat">
     <img src="https://i.imgur.com/WqUCGmW.png" width="700px" height="400px" alt="Logo">
@@ -174,7 +175,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
  <br />
  <sub><b>Antônio Bernardino da Silva</b></sub></a> <a href="https://tonybsilvadev.medium.com/" title="Medium".</a>
 
-
+</div>
 
 
 
